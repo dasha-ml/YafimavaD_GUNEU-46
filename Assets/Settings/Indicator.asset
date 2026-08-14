@@ -14,20 +14,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   <Settings>k__BackingField:
   - Mult: 1
-    Text: WOW!
+    Text: 
     Clip: {fileID: 0}
   - Mult: 2
     Text: OHHHH!
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 0d191817b5df31248ace0662c5f8550a, type: 2}
   - Mult: 3
     Text: IMPOSSIBLE!
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 5eaff6bb747fc4a40bd2ed340457d268, type: 2}
   - Mult: 4
     Text: GREAT!!
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 9e240d021fd64aa4a8d2045946531c8b, type: 2}
   - Mult: 5
-    Text: NONONONO!!!!
-    Clip: {fileID: 0}
+    Text: NONONO!!!!
+    Clip: {fileID: 7400000, guid: d2d71c87743f59449a6d6c12e74cbb66, type: 2}
   - Mult: 6
     Text: CARNAGE!!!!
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: e643dbbd4dc380b438be1a89200f6bbc, type: 2}
